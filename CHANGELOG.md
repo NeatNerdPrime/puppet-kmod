@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 Each new release typically also includes the latest modulesync defaults.
 These should not affect the functionality of the module.
 
+## [v5.0.0](https://github.com/voxpupuli/puppet-kmod/tree/v5.0.0) (2025-11-11)
+
+[Full Changelog](https://github.com/voxpupuli/puppet-kmod/compare/v4.1.0...v5.0.0)
+
+**Breaking changes:**
+
+- Drop puppet, update openvox minimum version to 8.19 [\#127](https://github.com/voxpupuli/puppet-kmod/pull/127) ([TheMeier](https://github.com/TheMeier))
+
+**Implemented enhancements:**
+
+- Declare support for Debian 11, 12, 13 and Ubuntu 22.04, 24.04 [\#129](https://github.com/voxpupuli/puppet-kmod/pull/129) ([kenyon](https://github.com/kenyon))
+- metadata.json: Add OpenVox [\#123](https://github.com/voxpupuli/puppet-kmod/pull/123) ([jstraw](https://github.com/jstraw))
+
 ## [v4.1.0](https://github.com/voxpupuli/puppet-kmod/tree/v4.1.0) (2024-12-10)
 
 [Full Changelog](https://github.com/voxpupuli/puppet-kmod/compare/v4.0.1...v4.1.0)
